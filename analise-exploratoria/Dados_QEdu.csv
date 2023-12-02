@@ -1,0 +1,22 @@
+﻿COD Municipio;Cidade;COD UF;UF;Total de escolas que nao possuem laboratório de informatica;Total de escolas que possuem laboratório de informatica;Total de escolas que nao possuem computador;Total de escolas que possuem computador;Total de escolas que não possuem acesso a internet;Total de escolas que possuem acesso a internet;Total de escolas que não possuem internet banda larga;Total de escolas que possuem internet banda larga;Total de escolas que nao possuem lousa digital;Total de escolas que possuem lousa digital;Total de escolas que nao possuemdesktop em uso pelos alunos;Total de escolas que possuem desktop em uso pelos alunos;Total de computadores em uso pelos alunos - desktop;Total de escolas que não possuem notebook em uso pelos alunos;Total de escolas que possuem notebook em uso pelos alunos;Total de computadores em uso pelos alunos - notebook;Total de escolas que nao possuem tablets em uso pelos alunos;Total de escolas que possuem tablets em uso pelos alunos;Total de computadores em uso pelos alunos - tablet;Total de escolas que nao possuem acesso a internet para os alunos;Total de escolas que possuem acesso a internet para os alunos;Total de escolas que não possuem acesso a internet para uso nos processos de ensino e aprendizagem;Total de escolas que possuem acesso a internet para uso nos processos de ensino e aprendizagem;Total de escolas sem rede local;Total de escolas com rede local a cabo;Total de escolas com rede local wireless;Total de escolas com rede local a cabo e wireless;Total de escolas com rede não informada
+2916104;Itaparica;29;BA;21;3;1,0;23;3,0;21;1,0;20;24;;15;9;35;16;8;27;24;;0;23;1,0;17;7;5;3;5;6;5,0
+2910800;Feira de Santana;29;BA;312;98;11,0;399;2,0;408;9,0;399;396;14,0;191;219;1445;244;166;555;376;34,0;406;171;239,0;109;301;58;54;42;224;32,0
+2932903;Valenca;29;BA;135;25;75,0;85;69,0;91;12,0;79;156;4,0;136;24;192;146;14;69;155;5,0;55;145;15,0;115;45;13;32;15;15;85,0
+2906501;Candeias;29;BA;48;31;3,0;76;2,0;77;17,0;60;75;4,0;70;9;63;72;7;11;76;3,0;15;76;3,0;73;6;6;9;47;2;15,0
+2927408;Salvador;29;BA;1006;429;45,0;1390;26,0;1409;61,0;1348;1315;120,0;678;757;93957;953;482;92211;1156;279,0;92605;1061;374,0;918;517;289;349;192;450;155,0
+2913606;Ilheus;29;BA;60;37;8,0;89;12,0;85;10,0;75;93;4,0;66;31;368;72;25;170;91;6,0;30;82;15,0;68;29;24;19;16;21;17,0
+2914802;Itabuna;29;BA;90;55;11,0;134;13,0;132;11,0;121;142;3,0;59;86;462;88;57;214;133;12,0;54;101;44,0;80;65;30;20;16;63;16,0
+2910057;Dias dAvila;29;BA;57;8;2,0;63;1,0;64;5,0;59;59;6,0;44;21;99;44;21;38;60;5,0;5;57;8,0;56;9;7;19;12;14;13,0
+2933208;Vera Cruz;29;BA;46;8;8,0;46;3,0;51;5,0;46;52;2,0;40;14;40;43;11;58;52;2,0;6;47;7,0;32;22;12;8;5;15;14,0
+2919207;Lauro de Freitas;29;BA;93;37;19,0;111;33,0;97;11,0;86;125;5,0;95;35;89204;114;16;218;115;15,0;249;95;35,0;101;29;8;51;8;19;44,0
+2905701;Camacari;29;BA;140;79;8,0;211;12,0;207;7,0;200;208;11,0;95;124;1305;99;120;268621;200;19,0;137;148;71,0;124;95;25;74;37;55;28,0
+2919926;Madre de Deus;29;BA;5;9;;14;;14;;14;9;5,0;4;10;94;9;5;17;12;2,0;15;7;7,0;4;10;1;1;3;9;
+2930709;Simoes Filho;29;BA;85;25;6,0;104;10,0;100;13,0;87;107;3,0;73;37;347;96;14;35;105;5,0;38;99;11,0;96;14;13;49;20;19;9,0
+2925204;Pojuca;29;BA;23;8;2,0;29;1,0;30;3,0;27;30;1,0;16;15;122;17;14;38;28;3,0;61;27;4,0;19;12;3;13;4;6;5,0
+2929503;Sao Sebastiao do Passe;29;BA;35;8;3,0;40;7,0;36;9,0;27;43;;37;6;22;40;3;15;42;1,0;10;40;3,0;34;9;10;12;9;4;8,0
+2918001;Jequie;29;BA;49;102;84,0;67;49,0;102;13,0;89;148;3,0;110;41;281;120;31;185;139;12,0;127;124;27,0;117;34;12;24;8;14;93,0
+2921005;Mata de São João;29;BA;36;8;;44;3,0;41;10,0;31;42;2,0;16;28;41;39;5;32;43;1,0;1;44;;22;22;4;13;13;4;10,0
+2929206;Sao Francisco do Conde;29;BA;53;6;1,0;58;18,0;41;21,0;20;57;2,0;43;16;69;57;2;3;59;;0;51;8,0;24;35;18;7;4;29;1,0
+2933307;Vitoria da Conquista;29;BA;205;52;56,0;201;67,0;190;55,0;135;250;7,0;187;70;610;214;43;222;240;17,0;93;210;47,0;150;107;46;65;40;42;64,0
+2928703;Santo Antonio de Jesus;29;BA;82;10;14,0;78;17,0;75;2,0;73;90;2,0;76;16;88968;74;18;88920;88;4,0;16;81;11,0;75;17;37;17;7;10;21,0
+
